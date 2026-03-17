@@ -271,6 +271,20 @@ nav {
   border-radius: 50%;
 }
 
+.job-closing {
+  margin-top: 2rem;
+  font-size: 0.95rem;
+  color: var(--gray-600);
+  line-height: 1.6;
+}
+
+.job-umfang {
+  margin-top: 1.5rem;
+  font-size: 0.95rem;
+  color: var(--gray-600);
+  line-height: 1.6;
+}
+
 .apply-btn {
   display: inline-block;
   margin-top: 2.5rem;
