@@ -60,6 +60,19 @@ nav {
   color: var(--gray-400);
   font-size: 0.8125rem;
 }
+.nav-links a.lang-toggle {
+  font-size: 0.75rem;
+  font-weight: 500;
+  letter-spacing: 0.08em;
+  color: var(--gray-500);
+  border: 1px solid var(--gray-200);
+  padding: 0.25rem 0.5rem;
+  transition: border-color 0.2s, color 0.2s;
+}
+.nav-links a.lang-toggle:hover {
+  border-color: var(--gray-400);
+  color: var(--black);
+}
 
 /* --- HERO --- */
 .hero {
