@@ -1,0 +1,11 @@
+{
+  "version": "0.0.1",
+  "configurations": [
+    {
+      "name": "karriere",
+      "runtimeExecutable": "python3",
+      "runtimeArgs": ["-m", "http.server", "3456", "-d", "/Users/hvlara/karriere-hv"],
+      "port": 3456
+    }
+  ]
+}
