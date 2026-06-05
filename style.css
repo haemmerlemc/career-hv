@@ -259,6 +259,15 @@ nav {
   font-weight: 300;
   margin-bottom: 1rem;
 }
+.job-description a {
+  color: var(--black);
+  text-decoration: underline;
+  text-underline-offset: 2px;
+  text-decoration-thickness: 1px;
+  font-weight: 400;
+  transition: color 0.15s ease;
+}
+.job-description a:hover { color: var(--gray-500); }
 
 .job-list {
   list-style: none;
