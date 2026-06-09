@@ -268,6 +268,7 @@ nav {
   transition: color 0.15s ease;
 }
 .job-description a:hover { color: var(--gray-500); }
+.job-description.spaced-top { margin-top: 2.5rem; }
 
 .job-list {
   list-style: none;
