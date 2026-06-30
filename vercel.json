@@ -4,6 +4,7 @@
     { "source": "/en/", "destination": "/", "permanent": true },
     { "source": "/en/:path*", "destination": "/:path*", "permanent": true },
     { "source": "/internal-sales.html", "destination": "/", "permanent": false },
-    { "source": "/de/internal-sales.html", "destination": "/de/", "permanent": false }
+    { "source": "/de/internal-sales.html", "destination": "/de/", "permanent": false },
+    { "source": "/junior-designer.html", "destination": "/", "permanent": false }
   ]
 }
